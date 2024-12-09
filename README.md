@@ -23,3 +23,13 @@ Para compartir en comunidad:
 
 - [OpenGameArt.org](https://opengameart.org/)
 - [assets kenney.nl](https://kenney.nl/assets)
+
+## Software development
+
+### Diseño
+
+- [Quickmock (wireframing tool)](https://www.quickmock.net/editor.html)
+
+### Programación
+
+- [MongoModeler (database modeler tool)](https://www.mongomodeler.com/editor.html)
